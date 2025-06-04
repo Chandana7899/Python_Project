@@ -2,9 +2,7 @@ import csv
 import os
 from datetime import datetime
 
-# -----------------------------
-# Student Class Definition
-# -----------------------------
+
 
 class Student:
     """
