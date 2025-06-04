@@ -2,8 +2,6 @@ import csv
 import os
 from datetime import datetime
 
-
-
 class Student:
     """
     Represents a student with ID, name, and attendance records.
